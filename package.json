@@ -32,7 +32,7 @@
 }
 
 {
-  "homepage": "https://rajesh9825.github.io/HiFI-gym/",
+  "homepage": "https://rajesh9825.github.io/HiFi-gym/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
